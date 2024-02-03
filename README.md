@@ -61,4 +61,4 @@ This project provides a simple and intuitive Java-based chat application allowin
   - Currently, text files (.txt) and images are supported.
 
 
-Happy chatting! 😊🚀
+**Happy chatting! 😊🚀**
