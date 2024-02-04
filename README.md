@@ -1,6 +1,6 @@
-# Chat Application with File Transfer
+# Chat Application with File Transfer 💬📁
 
-## Overview
+## Overview 🌐
 This project provides a simple and intuitive Java-based chat application allowing users to communicate in real-time. Moreover, users can seamlessly share files with each other. The project consists of a server-side component, a client-side GUI, and a server thread to handle communication and file transfers.
 
 ## Features 🚀
