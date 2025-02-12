@@ -1,12 +1,17 @@
-# Chat Application with File Transfer 💬📁
+# 💬 **Chat Application with File Transfer** 📁
 
 ## Overview 🌐
-This project provides a simple and intuitive Java-based chat application allowing users to communicate in real-time. Moreover, users can seamlessly share files with each other. The project consists of a server-side component, a client-side GUI, and a server thread to handle communication and file transfers.
+Experience real-time communication with our Java-based chat application! Featuring a sleek Swing GUI, this app not only allows you to chat instantly but also lets you share files—be it text files or images—seamlessly. With a robust server-side architecture handling multiple clients, this project brings reliable chat functionality right to your fingertips. 🚀
 
 ## Features 🚀
-- User-friendly Swing GUI for the client application.
-- Real-time chat functionality.
-- File transfer capability for both text files and images.
+- **Intuitive Swing GUI:**  
+  Enjoy a clean and user-friendly interface that makes chatting a breeze. 🖥️
+- **Real-Time Chat:**  
+  Connect instantly and communicate live with friends and colleagues. ⏱️
+- **Seamless File Transfer:**  
+  Share text files and images effortlessly with your contacts. 📄🖼️
+- **Robust Server Architecture:**  
+  Utilizes a dedicated server thread for each client, ensuring smooth and efficient communication. 🔄
 
 ## Project Structure 🏗️
 - **Server.java**
